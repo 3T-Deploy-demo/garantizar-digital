@@ -8,7 +8,9 @@ body {
   font-family: Roboto;
   color: #fff;
 }
-
+#contenedor-merch h4 strong, #contenedor-merch p {
+  color: #595B65;  
+}
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
@@ -197,7 +199,8 @@ body {
 .btn-secondary,
 .btn-secondary:active {
   background-color: #FFF !important;
-  border-color: #FFF !important;
+  border-color: #53A1B4 !important;
+  border-width: 2px;
   color: #53A1B4 !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
